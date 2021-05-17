@@ -26,10 +26,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/14841009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/stack-overflow.svg" alt="14841009" height="30" width="40" /></a>
-<a href="https://dribbble.com/vahubali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/dribbble.svg" alt="vahubali" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucczfhzsa8nenx_qtflq6mha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucczfhzsa8nenx_qtflq6mha" height="30" width="40" /></a>
-<a href="https://discord.gg/G2KgVtyaR5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/discord.svg" alt="G2KgVtyaR5" height="30" width="40" /></a>
-<a href="/https://feeds.redcircle.com/b95d4f68-9f91-4009-b9a8-9c2c0b31f68b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/rss.svg" alt="https://feeds.redcircle.com/b95d4f68-9f91-4009-b9a8-9c2c0b31f68b" height="30" width="40" /></a>
+<a href="https://dribbble.com/vahubali" target="blank"><img align="center" src="![image](https://user-images.githubusercontent.com/67645126/118555068-388cd900-b730-11eb-962b-ff425babe03d.png)
+" alt="vahubali" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/ucczfhzsa8nenx_qtflq6mha" target="blank"><img align="center" src="![image](https://user-images.githubusercontent.com/67645126/118555202-683be100-b730-11eb-9d18-c388eb24cb62.png)" height="30" width="40" /></a>
+<a href="https://discord.gg/G2KgVtyaR5" target="blank"><img align="center" src="![image](https://user-images.githubusercontent.com/67645126/118555264-7b4eb100-b730-11eb-9154-b6b71b6e16ca.png)" alt="G2KgVtyaR5" height="30" width="40" /></a>
+<a href="/https://feeds.redcircle.com/b95d4f68-9f91-4009-b9a8-9c2c0b31f68b" target="blank"><img align="center" src="![image](https://user-images.githubusercontent.com/67645126/118555320-8d305400-b730-11eb-847a-6aaa2cd7b8dd.png)" alt="https://feeds.redcircle.com/b95d4f68-9f91-4009-b9a8-9c2c0b31f68b" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

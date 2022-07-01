@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vasu Bansal</h1>
-<h3 align="center">I am a 14 year old Full-Stack developer who has advanced experience in many aspects of a web and mobile application</h3>
+<h3 align="center">I am a Full-Stack developer who has advanced experience in many aspects of a web and mobile application</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vahubali&label=Profile%20views&color=0e75b6&style=flat" alt="vahubali" /> </p>
 
